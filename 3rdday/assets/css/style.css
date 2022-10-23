@@ -1,0 +1,33 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+    font-size: 20px;
+    font-family: Arial;
+    line-height: 100px;
+    background-color: blue;
+    color: orange;
+
+}
+  
+.container {
+    line-height: 150px;
+    background-color: black;
+    color: white;
+
+}
+
+#section-1 { 
+    font-family: "Lucida Console", Monaco, monospace;
+    background-color: purple;
+    color: yellow;
+    font-size: 26px;
+
+}
+
+#section-6 {
+    color: yellow;
+
+}
